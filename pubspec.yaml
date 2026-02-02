@@ -1,5 +1,5 @@
 name: flutter_native_secure_storage
-description: "A new Flutter plugin project."
+description: "Flutter plugin to store data in secure storage on Android and iOS."
 version: 1.0.2
 homepage: https://github.com/shubhamdevgupta/flutter_native_secure_storage
 repository: https://github.com/shubhamdevgupta/flutter_native_secure_storage
